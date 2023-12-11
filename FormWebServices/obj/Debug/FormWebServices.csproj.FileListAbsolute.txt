@@ -1,0 +1,11 @@
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\bin\Debug\FormWebServices.exe.config
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\bin\Debug\FormWebServices.exe
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\bin\Debug\FormWebServices.pdb
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\obj\Debug\FormWebServices.csproj.AssemblyReference.cache
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\obj\Debug\FormWebServices.Form1.resources
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\obj\Debug\FormWebServices.Properties.Resources.resources
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\obj\Debug\FormWebServices.csproj.GenerateResource.cache
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\obj\Debug\FormWebServices.csproj.CoreCompileInputs.cache
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\obj\Debug\FormWebServices.exe
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\obj\Debug\FormWebServices.pdb
+C:\Users\dazni\OneDrive\Documentos\ASP.NET\FormWebServices\obj\Debug\FormWebServices.Form2.resources
